@@ -2,7 +2,8 @@
 
 - 🔥 Desenvolvedor Fullstack JR 
 
-- 🤘 Atualmente desenvolvo minhas habilidades em uma agência da minha cidade, onde desenvolvemos projetos E-commerce e também entragamos sites aos clientes. "Projeto em andamento" Link da agência: https://www.linkedin.com/company/ag%C3%AAncia-drops/ 
+- 🤘 Atualmente desenvolvo minhas habilidades em uma agência da minha cidade, onde desenvolvemos projetos E-commerce e também entragamos sites aos clientes. "Projeto em andamento" Clique para saber mais sobre a agência  👉 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/ag%C3%AAncia-drops/)
+
 
 - 📚 Em formação... 
 
