@@ -34,7 +34,21 @@ src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg">
 
 <p align="left">
 
-<img width="530em" src="https://github-readme-stats.vercel.aoo/api?username=Mauriciofraganeves&show_icons=true&theme=radical" alt="Mauriciofraganeves stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Mauriciofraganeves&show_icons=true&theme=radical"/>
   
   
-  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauriciofraganeves&layout-compact&theme-tokyonight" alt="Mauriciofraganeves most languages"/>
+  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauriciofraganeves&layout-compact&theme=radical" alt="Mauriciofraganeves most languages"/>
+  </p>
+  
+  <br><br> 
+  
+ ## 🌐 &nbsp;Social Links  
+  
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maur%C3%ADcio-fraga-neves-a8587b228/)
+  
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mauricio_nevess/)
+
+
+
+
+  
