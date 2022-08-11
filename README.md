@@ -4,8 +4,6 @@
 
 - 📚 CS50X - Ciência Da Computação / Harvard - Em formação...
 
-- 🤘 Atualmente desenvolvo minhas habilidades em uma agência da minha cidade, onde desenvolvemos projetos E-commerce e também entregamos sites aos clientes. "Projeto E-commerce em andamento" Clique para saber mais sobre a agência  👉 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/ag%C3%AAncia-drops/)
-
 - 👨‍🎓 Estudando inglês através da plataforma Udemy
 
 <br><br>
